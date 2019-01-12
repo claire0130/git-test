@@ -1,4 +1,4 @@
-###### git test
+###### Git
 
 ## [커밋 메시지 작성법](http://sujinlee.me/professional-github/)
 ### 제목 타입 라벨 붙이기 - 타입(type): 제목
