@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# SASS
+.sass-cache
+*.css.map
+
+# .idea 제거
+.idea
